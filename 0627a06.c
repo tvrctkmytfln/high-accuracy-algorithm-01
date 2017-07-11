@@ -158,7 +158,6 @@ void primuf(int x,int mur[])
 	printf("%d ! = ",x);prinar(mur);printf("\n");
 }
 
-
 /*
 void main()
 {
